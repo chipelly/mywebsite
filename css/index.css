@@ -1,0 +1,35 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+#chipelly {
+	margin: 20px auto 20px auto;
+	text-align: center;
+}
+.initial_text {
+	margin: 10 auto 0 auto;
+	text-align: center;//设置内容居中
+}
+.initial_wish {
+	margin: 10px auto 30px auto;
+	text-align: center;
+}
+.initial_writer {
+	margin: 10px auto 8px auto;
+	text-align: center;
+	font-size: 10px;
+}
+
+.decoration {
+	width: 80%;
+	height: 1px;
+	margin: 0px auto;
+	padding: 0px;
+	background-color: #d5d5d5;
+	overflow: hidden;
+}
+.decoration_aside {
+	margin: 1px auto;
+	overflow: hidden;
+}
